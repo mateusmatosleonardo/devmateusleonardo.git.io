@@ -55,6 +55,10 @@ body.dark-theme{
   --body-color: #2B2B2B;
 }
 
+i{
+  margin-left: 10px;
+}
+
 /*========== Button Dark/Light ==========*/
 
 .change-theme{
